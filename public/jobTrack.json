@@ -1,0 +1,539 @@
+[
+    {
+      "id": "1",
+      "name": "TechNova Solutions",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGgso82T_7FOgZ6ja-Bl5DHrqJFHEkpbSsg&s",
+      "location": "San Francisco, CA",
+      "website": "https://technova.com",
+      "industry": "Software Development",
+      "jobs": [
+        {
+          "id": "job-001",
+          "title": "Frontend Developer",
+          "bannerImage": "https://example.com/banners/frontend.jpg",
+          "location": "Remote",
+          "salary": "$80,000 - $100,000",
+          "jobType": "Full-time",
+          "description": "Build responsive web interfaces using React.",
+          "requirements": [
+            "Proficient in HTML, CSS, and JavaScript",
+            "Experience with React.js",
+            "Understanding of REST APIs",
+            "Responsive design experience",
+            "Version control with Git"
+          ]
+        },
+        {
+            "id": "job-002",
+            "title": "Data Scientist",
+            "bannerImage": "https://example.com/banners/data-scientist.jpg",
+            "location": "New York, NY",
+            "salary": "$100,000 - $130,000",
+            "jobType": "Full-time",
+            "description": "Analyze data and build predictive models.",
+            "requirements": [
+              "Strong Python and SQL skills",
+              "Experience with ML frameworks",
+              "Statistical modeling expertise",
+              "Familiar with cloud platforms",
+              "Excellent analytical thinking"
+            ]
+          },
+          {
+            "id": "job-014",
+            "title": "Backend Developer",
+            "bannerImage": "https://example.com/banners/backend.jpg",
+            "location": "Remote",
+            "salary": "$85,000 - $105,000",
+            "jobType": "Full-time",
+            "description": "Develop RESTful APIs and financial services.",
+            "requirements": [
+              "Strong Node.js or Python backend skills",
+              "Experience with databases",
+              "Secure coding practices",
+              "Cloud deployment (AWS/Azure)",
+              "Team collaboration experience"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "DataVision Inc.",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/datavisiondigital.png?itok=ACRcmg51",
+      "location": "New York, NY",
+      "website": "https://datavision.com",
+      "industry": "Data Analytics",
+      "jobs": [
+        {
+          "id": "job-016",
+          "title": "Data Scientist",
+          "bannerImage": "https://example.com/banners/data-scientist.jpg",
+          "location": "New York, NY",
+          "salary": "$100,000 - $130,000",
+          "jobType": "Full-time",
+          "description": "Analyze data and build predictive models.",
+          "requirements": [
+            "Strong Python and SQL skills,",
+            "Experience with ML frameworks,",
+            "Statistical modeling expertise,",
+            "Familiar with cloud platforms,",
+            "Excellent analytical thinking,"
+          ]
+        },
+        {
+            "id": "job-013",
+            "title": "IoT Engineer",
+            "bannerImage": "https://example.com/banners/iot.jpg",
+            "location": "Des Moines, IA",
+            "salary": "$85,000 - $105,000",
+            "jobType": "Full-time",
+            "description": "Design and deploy IoT systems for agriculture.",
+            "requirements": [
+              "Experience with microcontrollers",
+              "Sensor integration",
+              "Wireless protocols (LoRa, Zigbee)",
+              "Cloud data integration",
+              "Problem-solving skills"
+            ]
+          },
+          {
+            "id": "job-012",
+            "title": "Digital Marketing Manager",
+            "bannerImage": "https://example.com/banners/marketing.jpg",
+            "location": "Miami, FL",
+            "salary": "$75,000 - $95,000",
+            "jobType": "Full-time",
+            "description": "Lead marketing campaigns and SEO strategies.",
+            "requirements": [
+              "Experience with Google Ads and Analytics",
+              "Social media management",
+              "Email marketing platforms",
+              "Content strategy",
+              "Team leadership"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "CreativeWorks",
+      "logo": "https://cdn.dribbble.com/userupload/41982691/file/original-e842c43915cb11903d1d09113bcd8281.jpg?resize=400x300",
+      "location": "Austin, TX",
+      "website": "https://www.creativeworks.co/",
+      "industry": "Design & Media",
+      "jobs": [
+        {
+          "id": "job-003",
+          "title": "UI/UX Designer",
+          "bannerImage": "https://example.com/banners/uiux.jpg",
+          "location": "Austin, TX",
+          "salary": "$70,000 - $90,000",
+          "jobType": "Full-time",
+          "description": "Design user interfaces for web and mobile.",
+          "requirements": [
+            "Experience with Figma and Adobe XD",
+            "Strong portfolio",
+            "Understanding of user-centered design",
+            "Basic HTML/CSS knowledge",
+            "Attention to detail"
+          ]
+        },
+        {
+          "id": "job-043",
+          "title": "UI/UX Designer",
+          "bannerImage": "https://example.com/banners/uiux.jpg",
+          "location": "LaMesa, LS",
+          "salary": "$70,000 - $90,000",
+          "jobType": "Full-time",
+          "description": "Design user interfaces for web and mobile.",
+          "requirements": [
+            "Experience with Figma and Adobe XD",
+            "Strong portfolio",
+            "Understanding of user-centered design",
+            "Basic HTML/CSS knowledge",
+            "Attention to detail"
+          ]
+        },
+        {
+          "id": "job-044",
+          "title": "UI/UX Designer",
+          "bannerImage": "https://example.com/banners/uiux.jpg",
+          "location": "North Chumash, LS",
+          "salary": "$60,000 - $80,000",
+          "jobType": "Full-time",
+          "description": "Design user interfaces for web and mobile.",
+          "requirements": [
+            "Experience with Figma and Adobe XD",
+            "Strong portfolio",
+            "Understanding of user-centered design",
+            "Basic HTML/CSS knowledge",
+            "Attention to detail"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "GreenTech Energy",
+      "logo": "https://static.wixstatic.com/media/4f2901_7f5429ba83f44707b72e6601edb2e2f3~mv2.jpg/v1/fill/w_277,h_277,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bigger%20Logo_JPG.jpg",
+      "location": "Seattle, WA",
+      "website": "https://www.green-technology.org/",
+      "industry": "Renewable Energy",
+      "jobs": [
+        {
+          "id": "job-004",
+          "title": "Software Engineer",
+          "bannerImage": "https://example.com/banners/software-eng.jpg",
+          "location": "Seattle, WA",
+          "salary": "$90,000 - $115,000",
+          "jobType": "Full-time",
+          "description": "Develop energy monitoring systems.",
+          "requirements": [
+            "Proficient in Python and C++",
+            "Experience with embedded systems",
+            "Familiar with IoT technologies",
+            "Strong debugging skills",
+            "Agile development experience"
+          ]
+        },
+        {
+          "id": "job-005",
+          "title": "Technical Project Manager",
+          "bannerImage": "https://example.com/banners/project-manager.jpg",
+          "location": "Seattle, WA",
+          "salary": "$95,000 - $120,000",
+          "jobType": "Full-time",
+          "description": "Manage technical projects in green tech.",
+          "requirements": [
+            "5+ years project management experience",
+            "PMP certification preferred",
+            "Strong communication skills",
+            "Familiar with SDLC",
+            "Knowledge of clean energy domain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "FinEdge Corp.",
+      "logo": "https://static.theprint.in/wp-content/uploads/2023/12/ANI-20231201115055.jpg?compress=true&quality=80&w=376&dpr=2.6",
+      "location": "Chicago, IL",
+      "website": "https://www.finedge.in/",
+      "industry": "Finance",
+      "jobs": [
+        {
+          "id": "job-006",
+          "title": "Backend Developer",
+          "bannerImage": "https://example.com/banners/backend.jpg",
+          "location": "Remote",
+          "salary": "$85,000 - $105,000",
+          "jobType": "Full-time",
+          "description": "Develop RESTful APIs and financial services.",
+          "requirements": [
+            "Strong Node.js or Python backend skills",
+            "Experience with databases",
+            "Secure coding practices",
+            "Cloud deployment (AWS/Azure)",
+            "Team collaboration experience"
+          ]
+        },
+        {
+            "id": "job-019",
+            "title": "Content Strategist",
+            "bannerImage": "https://example.com/banners/content.jpg",
+            "location": "Los Angeles, CA",
+            "salary": "$60,000 - $80,000",
+            "jobType": "Part-time",
+            "description": "Design educational content strategies.",
+            "requirements": [
+              "Strong writing and editing skills",
+              "Experience in education sector",
+              "SEO knowledge",
+              "Curriculum planning experience",
+              "Creative storytelling"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "HealthTrack",
+      "logo": "https://images-platform.99static.com/0hvdh7oCjwZZt5s5sGqfJvQ4W-U=/500x500/top/smart/99designs-contests-attachments/26/26604/attachment_26604297",
+      "location": "Boston, MA",
+      "website": "https://www.healthtracks.com/",
+      "industry": "Healthcare Tech",
+      "jobs": [
+        {
+          "id": "job-007",
+          "title": "Mobile App Developer",
+          "bannerImage": "https://example.com/banners/mobile-dev.jpg",
+          "location": "Remote",
+          "salary": "$90,000 - $110,000",
+          "jobType": "Full-time",
+          "description": "Build mobile health applications.",
+          "requirements": [
+            "Experience with Flutter or React Native",
+            "Mobile UI/UX design",
+            "API integration",
+            "Cross-platform development",
+            "CI/CD for mobile"
+          ]
+        },
+        {
+            "id": "job-011",
+            "title": "DevOps Engineer",
+            "bannerImage": "https://example.com/banners/devops.jpg",
+            "location": "Remote",
+            "salary": "$100,000 - $130,000",
+            "jobType": "Full-time",
+            "description": "Automate infrastructure and CI/CD pipelines.",
+            "requirements": [
+              "Experience with Docker and Kubernetes",
+              "AWS or GCP cloud environments",
+              "Infrastructure as Code (Terraform)",
+              "CI/CD pipeline tools",
+              "Monitoring and logging systems"
+            ]
+          },
+          {
+              "id": "job-017",
+              "title": "Security Analyst",
+              "bannerImage": "https://example.com/banners/security.jpg",
+              "location": "Washington, DC",
+              "salary": "$95,000 - $125,000",
+              "jobType": "Full-time",
+              "description": "Monitor and improve cybersecurity systems.",
+              "requirements": [
+                "Experience with SIEM tools",
+                "Knowledge of security protocols",
+                "Incident response expertise",
+                "Network monitoring experience",
+                "Certifications (CEH, CISSP)"
+              ]
+            }  
+      ]
+    },
+    {
+      "id": "7",
+      "name": "AutoBotics",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYnJLhcfSsft6hBsySXP-HPCzZlvnMJAXwA&s",
+      "location": "Detroit, MI",
+      "website": "https://autobotics.net/",
+      "industry": "Automotive AI",
+      "jobs": [
+        {
+          "id": "job-008",
+          "title": "Machine Learning Engineer",
+          "bannerImage": "https://example.com/banners/ml-engineer.jpg",
+          "location": "Detroit, MI",
+          "salary": "$110,000 - $140,000",
+          "jobType": "Full-time",
+          "description": "Develop AI models for autonomous vehicles.",
+          "requirements": [
+            "ML libraries like TensorFlow/PyTorch",
+            "Computer vision experience",
+            "Python proficiency",
+            "Knowledge of automotive systems",
+            "Model deployment experience"
+          ]
+        },{
+            "id": "job-020",
+            "title": "Mobile App Developer",
+            "bannerImage": "https://example.com/banners/mobile-dev.jpg",
+            "location": "Remote",
+            "salary": "$90,000 - $110,000",
+            "jobType": "Full-time",
+            "description": "Build mobile health applications.",
+            "requirements": [
+              "Experience with Flutter or React Native",
+              "Mobile UI/UX design",
+              "API integration",
+              "Cross-platform development",
+              "CI/CD for mobile"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "EduSmart",
+      "logo": "https://i.pinimg.com/736x/49/33/85/493385b85ab72d82efd6198c84670f63.jpg",
+      "location": "Los Angeles, CA",
+      "website": "https://edusmart.com/",
+      "industry": "Education Tech",
+      "jobs": [
+        {
+          "id": "job-009",
+          "title": "Content Strategist",
+          "bannerImage": "https://example.com/banners/content.jpg",
+          "location": "Los Angeles, CA",
+          "salary": "$60,000 - $80,000",
+          "jobType": "Part-time",
+          "description": "Design educational content strategies.",
+          "requirements": [
+            "Strong writing and editing skills",
+            "Experience in education sector",
+            "SEO knowledge",
+            "Curriculum planning experience",
+            "Creative storytelling"
+          ]
+        },
+        {
+            "id": "job-010",
+            "title": "Security Analyst",
+            "bannerImage": "https://example.com/banners/security.jpg",
+            "location": "Washington, DC",
+            "salary": "$95,000 - $125,000",
+            "jobType": "Full-time",
+            "description": "Monitor and improve cybersecurity systems.",
+            "requirements": [
+              "Experience with SIEM tools",
+              "Knowledge of security protocols",
+              "Incident response expertise",
+              "Network monitoring experience",
+              "Certifications (CEH, CISSP)"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Technova Solutions",
+      "logo": "https://file.aiquickdraw.com/imgcompressed/img/compressed_f746bc4ab93e00f2698c464d1e12280e.webp",
+      "location": "Chennai, India",
+      "website": "https://www.technovasolutions.services/",
+      "industry": "Software Development",
+      "jobs": [
+        {
+          "id": "job-029",
+          "title": "Mobile App Developer",
+          "bannerImage": "https://example.com/banners/mobile_app.jpg",
+          "location": "Chennai, India",
+          "salary": "₹700,000 - ₹1,000,000",
+          "jobType": "Full-time",
+          "description": "Develop mobile applications for Android and iOS.",
+          "requirements": [
+            "Experience with Flutter or React Native",
+            "Strong understanding of mobile app architecture",
+            "Knowledge of RESTful APIs",
+            "Excellent debugging skills",
+            "Ability to work independently"
+          ]
+        },
+        {
+            "id": "job-039",
+            "title": "Mobile App Developer",
+            "bannerImage": "https://example.com/banners/mobile-dev.jpg",
+            "location": "Remote",
+            "salary": "₹90,000 - ₹110,000",
+            "jobType": "Full-time",
+            "description": "Build mobile health applications.",
+            "requirements": [
+              "Experience with Flutter or React Native",
+              "Mobile UI/UX design",
+              "API integration",
+              "Cross-platform development",
+              "CI/CD for mobile"
+            ]
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "CyberSecure Ltd.",
+      "logo": "https://img.freepik.com/premium-vector/cyber-secure-protection-logo-brand-company-vector-illustration_393879-2098.jpg?w=360",
+      "location": "London, UK",
+      "website": "https://cybersecure.co.uk",
+      "industry": "Cybersecurity",
+      "jobs": [
+        {
+          "id": "job-030",
+          "title": "Security Analyst",
+          "bannerImage": "https://example.com/banners/security-analyst.jpg",
+          "location": "London, UK",
+          "salary": "£50,000 - £70,000",
+          "jobType": "Full-time",
+          "description": "Monitor and protect systems from cyber threats.",
+          "requirements": [
+            "Knowledge of security protocols",
+            "Experience with SIEM tools",
+            "Understanding of network security",
+            "Certifications like CISSP or CEH",
+            "Problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "DataWave Analytics",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSUp7SStiSq5qLMJ46P_FvbdQPPHhPnIPSA&s",
+      "location": "Boston, MA",
+      "website": "https://datawaveanalytics.com",
+      "industry": "Data Analytics",
+      "jobs": [
+        {
+          "id": "job-033",
+          "title": "Data Analyst",
+          "bannerImage": "https://example.com/banners/data-analyst.jpg",
+          "location": "Boston, MA",
+          "salary": "$70,000 - $90,000",
+          "jobType": "Full-time",
+          "description": "Interpret data and analyze results using statistical techniques.",
+          "requirements": [
+            "Strong analytical skills",
+            "Proficiency in SQL and Excel",
+            "Experience with data visualization tools",
+            "Knowledge of statistical methods",
+            "Attention to detail"
+          ]
+        },
+        {
+          "id": "job-031",
+          "title": "Security Analyst",
+          "bannerImage": "https://example.com/banners/security-analyst.jpg",
+          "location": "London, UK",
+          "salary": "$50,000 - $70,000",
+          "jobType": "Full-time",
+          "description": "Monitor and protect systems from cyber threats.",
+          "requirements": [
+            "Knowledge of security protocols",
+            "Experience with SIEM tools",
+            "Understanding of network security",
+            "Certifications like CISSP or CEH",
+            "Problem-solving skills"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "CyberPlus Ltd.",
+      "logo": "https://www.cyberplus.co/wp-content/uploads/2022/01/cropped-CyberPlus-Favicon.png",
+      "location": "London, UK",
+      "website": "https://cybersecure.co.uk",
+      "industry": "Cybersecurity",
+      "jobs": [
+        {
+          "id": "job-032",
+          "title": "Security Analyst",
+          "bannerImage": "https://example.com/banners/security-analyst.jpg",
+          "location": "London, UK",
+          "salary": "£50,000 - £70,000",
+          "jobType": "Full-time",
+          "description": "Monitor and protect systems from cyber threats.",
+          "requirements": [
+            "Knowledge of security protocols",
+            "Experience with SIEM tools",
+            "Understanding of network security",
+            "Certifications like CISSP or CEH",
+            "Problem-solving skills"
+          ]
+        }
+      ]
+    }
+
+  ]
+  
