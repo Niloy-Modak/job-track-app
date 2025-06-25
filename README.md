@@ -1,12 +1,39 @@
-# React + Vite
+# Project Overview 
+<h3>Website name: JobTrack</h3>
+JobTrack is a web-based platform designed to help users discover job opportunities across various industries. It offers a streamlined experience where users can browse job listings and view detailed information about each position. The platform is focused on simplicity and accessibility, making it easy for job seekers to find relevant roles without unnecessary complexity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Site URL](#) (https://b11-asinment-9.web.app/)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- User authentication and authorization (firebase)
+- Responsive UI/UX design
+
+
+## Technologies Used
+
+- React js
+- TailwindCss
+- DaisiyUi
+- Authentication: Firebase
+
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+     https://github.com/Niloy-Modak/job-track-app.git
+
+2. **Navigate repository:**
+   ```bash
+   cd project
+3. **Install dependencies:**
+   ```bash
+   npm install
+5. **Run in your pc:**
+   ```bash
+   npm run dev
+(Remember Firebase Auth Requied)
