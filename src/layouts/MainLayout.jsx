@@ -6,9 +6,6 @@ import { Toaster } from 'react-hot-toast';
 import Loading from '../components/Loading';
 import Footer from '../components/Footer';
 
-
-
-
 const MainLayout = () => {
     const { state } = useNavigation()
     return (

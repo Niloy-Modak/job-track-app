@@ -10,6 +10,7 @@ const SignUp = () => {
     const {createUser, setUser, updateUser} = use(AuthContext)
     const navigate = useNavigate()
 
+    //google popup
     const [theUser, setTheUser] = useState(null)
     const auth =getAuth(app)
 
